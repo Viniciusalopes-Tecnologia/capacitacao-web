@@ -1,4 +1,4 @@
-# Capacitacao Web
+# Capacitação Web
 
 ## Conteúdo programático
 
