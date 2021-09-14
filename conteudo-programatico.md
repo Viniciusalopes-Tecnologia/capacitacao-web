@@ -47,7 +47,7 @@
 
   - Navegação por href (recarregamento de página) utilizando:
     - Menu com navegação 
-    - Tag <a> para redirecionamento por 
+    - Tag ```<a>``` para redirecionamento por 
     - Button para redirecionamento por href
   - Tag Figure
     - __ARTEFATOS__: páginas About e Portfolio
