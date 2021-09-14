@@ -2,7 +2,7 @@
 
 ## Conteúdo programático
 
-### Teoria
+### TEORIA
 
 - Apresentação do conteúdo e do artefato de entrega do curso: 
   - Site pessoal com as páginas: Home, About, Portfolio, Contact 
@@ -18,7 +18,7 @@
 
 ---
 
-### Prática
+### PRÁTICA
 
 - __Preparação do ambiente de desenvolvimento__
   - Windows
