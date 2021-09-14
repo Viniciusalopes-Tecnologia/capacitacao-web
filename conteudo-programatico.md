@@ -47,15 +47,15 @@
 
   - Navegação por href (recarregamento de página) utilizando:
     - Menu de navegação 
-    - Tag ```<a>```
-    - Button 
-  - Tag Figure
+    - Tag ```<a/>```
+    - Tag ```<button/>``` 
+  - Tag ```<figure/>```
     - __ARTEFATOS__: páginas About e Portfolio
 
 ---
 
-  - Tag Input
-  - Tag Label
+  - Tag ```<input/>```
+  - Tag ```<label/>```
     - __ARTEFATO__: página Contact
 
 ---
