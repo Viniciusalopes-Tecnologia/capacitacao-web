@@ -28,7 +28,7 @@
 
 - __Git__
   - Criar conta no GitHub
-  - Criar chave SSH e adicionar ao repositório remoto
+  - Criar chave SSH e adicionar ao GitHub
   - Criar repositório do projeto
 
 ---
