@@ -15,7 +15,8 @@
 
 - Introdução ao __Git__ e ao __GitFlow__
   - Conceitos de repositório local e repositório remoto
-
+  - [Direitos autorais](http://www.planalto.gov.br/ccivil_03/LEIS/L9609.htm)
+  - [Mit License](https://opensource.org/licenses/MIT)
 ---
 
 ### PRÁTICA
@@ -23,6 +24,10 @@
 - __Preparação do ambiente de desenvolvimento__
   - Windows
   - Linux
+    - Visual Studio Code
+      - Plugins:
+        - Html Preview
+        - VS Code JS, CSS, HTML Formatting
 
 ---
 
@@ -40,7 +45,9 @@
 
 - __HTML__
   - Estrutura: DOM Element, tag, texto
-  - Seções: header, navbar, body, footer
+  - Seções: header, navbar, content, footer
+    - Fontes:
+      - [w3schools](https://www.w3schools.com/html/default.asp)
     - __ARTEFATO__: página Home 
 
 ---
@@ -49,22 +56,36 @@
     - Menu de navegação 
     - Tag ```<a/>```
     - Tag ```<button/>``` 
-  - Tag ```<figure/>```
     - __ARTEFATOS__: páginas About e Portfolio
 
 ---
-
-  - Tag ```<input/>```
-  - Tag ```<label/>```
+  - Formuário de contato
+    - Tag ```<form/>```
+    - Tag ```<input/>```
+    - Tag ```<label/>```
     - __ARTEFATO__: página Contact
+---
+
+- __COMPONENTIZAÇÃO__
+  - /components
+  - /pages
+  - /assets/css
+  - /assets/js
+  - /assets/img
 
 ---
 
 - __CSS__
   - Incorporar css ao html
   - Estilização de seções
+  - Imagens
+    - ```<body background="assets/img/blue-vin.png">```
+    - Tag ```<figure/>```
+    - Buscar no Google por sites de imagens grátis
+    - [Pixabay](https://pixabay.com/pt/)
+  - Estilização de imagens
   - Estilização de formulário de contato
-  - __ARTEFATOS__: Folha de estilos /css/styles.css 
+  - __ARTEFATOS__: Folha de estilos /css/styles.css e imagens 
 ---
 
 - __JavaScript__
